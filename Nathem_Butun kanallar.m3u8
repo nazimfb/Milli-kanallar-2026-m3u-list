@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:20,APA TV yoda
 #EXTGRP:Milli
-#EXTVLCOPT:network-caching=1000
 https://str.yodacdn.net/apatv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:7,APA TV
 #EXTGRP:Milli
@@ -23,8 +22,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
 #EXTINF:30,Az TV1
 #EXTGRP:Milli
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
 http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
 #EXTINF:0,Az TV2
 #EXTGRP:Milli
@@ -70,8 +67,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:20,IctimaiHD
 #EXTGRP:Milli
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://live.itv.az/itv.m3u8
 #EXTINF:0,Idman TV
 #EXTGRP:Milli
@@ -93,7 +88,6 @@ https://tv.mobyservice.ru/livetv/tracks-v1/index.fmp4.m3u8
 https://str2.yodacdn.net/medeniyyettele/tracks-v3a1/mono.ts.m3u8
 #EXTINF:24,MuzTV AZ
 #EXTGRP:Milli
-#EXTVLCOPT:network-caching=1000
 https://str.yodacdn.net/mtvaz/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,Naxcivan TV
 #EXTGRP:Milli
