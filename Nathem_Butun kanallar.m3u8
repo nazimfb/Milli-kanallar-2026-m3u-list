@@ -20,10 +20,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:0,AyazTV
 #EXTGRP:Milli
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
-#EXTINF:30,Az TV1
-#EXTGRP:Milli
-http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
-#EXTINF:0,Az TV2
+#EXTINF:12,AzTV
 #EXTGRP:Milli
 https://str.yodacdn.net/azertv/index.m3u8
 #EXTINF:0,AzTV HD
