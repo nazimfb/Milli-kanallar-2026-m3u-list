@@ -52,7 +52,7 @@ https://str2.yodacdn.net/kanal35/tracks-v1a1/mono.ts.m3u8
 #EXTINF:30,Kəpəz TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:26,LiveTV AZ
-https://tv.mobyservice.ru/livetv/tracks-v1/index.fmp4.m3u8
+https://tv.mobyservice.ru/livetv/index.fmp4.m3u8
 #EXTINF:0,Medeniyyet TV
 https://str2.yodacdn.net/medeniyyettele/tracks-v3a1/mono.ts.m3u8
 #EXTINF:24,MuzTV AZ
