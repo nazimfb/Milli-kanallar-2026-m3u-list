@@ -1,114 +1,77 @@
 #EXTM3U
 #EXTINF:20,APA TV yoda
-#EXTVLCOPT:network-caching=1000
 https://str.yodacdn.net/apatv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:7,APA TV
 https://raw.githubusercontent.com/nazimfb/apa-tv/refs/heads/main/APA%20TV.m3u8
 #EXTINF:36,Al Zahra TV
 http://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:20,ARB 24 HD
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
 #EXTINF:20,ARB Günəş
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:20,ARB TV HD
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:60,AyazTV
-#EXTVLCOPT:network-caching=1000
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
-#EXTINF:30,Az TV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
-#EXTINF:12,Az TV2
-#EXTVLCOPT:file-caching=1000
+#EXTINF:12,Az TV
 https://str.yodacdn.net/azertv/index.m3u8
 #EXTINF:0,AzTV HD
 http://176.65.146.189:8701/play/a09i
 #EXTINF:0,ANEWZ
 http://176.65.146.189:8701/play/a0a6
 #EXTINF:35,Azad TV (ATV) (720p)
-#EXTVLCOPT:file-caching=1000
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:598,Azerbaijan Gharbi
-#EXTVLCOPT:network-caching=1000
 https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
 #EXTINF:23,Azstar TV
-#EXTVLCOPT:network-caching=1000
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:24,Azstar TV (2)
-#EXTVLCOPT:network-caching=1000
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:50,Baku TV (720p)
-#EXTVLCOPT:file-caching=1000
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8?checkedby:iptvcat.com
 #EXTINF:0,CBC Azerbaijan TV HD
 http://176.65.146.189:8701/play/a09g
 #EXTINF:30,CBC Sport
-#EXTVLCOPT:network-caching=1000
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 #EXTINF:29,CBC Sport 2
-#EXTVLCOPT:network-caching=1000
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:0,CBC Sport TV HD
 http://176.65.146.189:8701/play/a09h
 #EXTINF:20,Dunya TV
-#EXTVLCOPT:file-caching=1000
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8?checkedby:iptvcat.com
 #EXTINF:34,EL TV (260p)
-#EXTVLCOPT:file-caching=1000
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:20,IctimaiHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://live.itv.az/itv.m3u8
 #EXTINF:12,Idman TV
-#EXTVLCOPT:file-caching=1000
 https://str2.yodacdn.net/idmantele/tracks-v3a1/mono.ts.m3u8
 #EXTINF:50,Kanal S TV
-#EXTVLCOPT:file-caching=1000
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8?checkedby:iptvcat.com
 #EXTINF:33,Kanal35 Naxcivan
-#EXTVLCOPT:network-caching=1000
 https://str2.yodacdn.net/kanal35/tracks-v1a1/mono.ts.m3u8
 #EXTINF:30,Kəpəz TV
-#EXTVLCOPT:network-caching=1000
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:26,LiveTV AZ
-#EXTVLCOPT:network-caching=1000
 https://tv.mobyservice.ru/livetv/tracks-v1/index.fmp4.m3u8
 #EXTINF:0,Medeniyyet TV
-#EXTVLCOPT:file-caching=1000
 https://str2.yodacdn.net/medeniyyettele/tracks-v3a1/mono.ts.m3u8
 #EXTINF:24,MuzTV AZ
-#EXTVLCOPT:network-caching=1000
 https://str.yodacdn.net/mtvaz/tracks-v1a1/mono.ts.m3u8
 #EXTINF:24,Naxcivan TV
-#EXTVLCOPT:network-caching=1000
 https://str2.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:34,Qafqaz TV [Geo-blocked]
-#EXTVLCOPT:file-caching=1000
 https://str1.yodacdn.net/qafkaz/playlist.m3u8
 #EXTINF:23,Real TV [Geo-blocked]
-#EXTVLCOPT:file-caching=1000
 https://str.yodacdn.net/real/playlist.m3u8
 #EXTINF:75,Show Plus
-#EXTVLCOPT:network-caching=1000
 https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:20,Space
-#EXTVLCOPT:file-caching=1000
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:20,TMB TV
-#EXTVLCOPT:file-caching=1000
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8?checkedby:iptvcat.com
 #EXTINF:20,VIP TV
-#EXTVLCOPT:file-caching=1000
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8?checkedby:iptvcat.com
 #EXTINF:20,Xezer TV
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:21,Хузур ТВ (1080p) [Not 24/7]
-#EXTVLCOPT:file-caching=1000
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
